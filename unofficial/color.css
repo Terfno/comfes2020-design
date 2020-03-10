@@ -1,0 +1,27 @@
+:light-color {
+  /* light theme */
+  --light-bg: #f1f3f5;
+  --light-text: #212529;
+}
+
+:dark-color {
+  /* dark theme */
+  --dark-bg: #343a40;
+  --dark-text: #f8f9fa;
+}
+
+:c-color {
+  /* common for light and dark */
+  --s-senshin: #748ffc;
+  --m-kikai: #ff8787;
+  --e-denkidenshi: #ffd43b;
+  --c-joho: #38d9a9;
+}
+
+:cud-c-color {
+  /* for cud mode */
+  --cud-s: #0059fd;
+  --cud-m: #ff4900;
+  --cud-e: #f9f300;
+  --cud-c: #00b278;
+}
